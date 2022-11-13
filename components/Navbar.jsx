@@ -8,7 +8,7 @@ function Navbar() {
   return (
     <Flex p="2" borderBottom='2px' borderColor="gray.100" >
         <Box fontSize="3xl" color="blue.300" fontWeight="bold" >
-            <Link href="/" paddingLeft="2" >Yahia REAL_ESTATE</Link>
+            <Link href="/" paddingLeft="2" >REAL_ESTATE</Link>
 
         </Box>
         <Spacer/>
